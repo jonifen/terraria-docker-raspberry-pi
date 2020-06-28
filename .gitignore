@@ -1,0 +1,2 @@
+# Ignore any world files in the worlds directory
+worlds/*.wld
